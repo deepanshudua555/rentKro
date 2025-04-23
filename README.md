@@ -1,7 +1,7 @@
-# 🌟 Tobeto Full Stack Training Project- RentACar
+# rentKro
 ---
 
-This project is a result of the comprehensive Java-React Full-stack training program conducted by Tobeto. It serves as a practical application of the skills and knowledge acquired during the training.
+This project is a result of the comprehensive Java-React Full-stack training program conducted by Deepanshu Dua. It serves as a practical application of the skills and knowledge acquired during the training.
 
 
 ---
