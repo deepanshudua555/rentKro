@@ -6,20 +6,6 @@ This project is a result of the comprehensive Java-React Full-stack training pro
 
 ---
 
-
-
-## 🚀 Contributors
-
-The contributors to this project are individuals who actively participated in Tobeto's full-stack training program:
-
-- [Tuğberk Urgancı](https://github.com/tugberkurganci)
-- [Halil İbrahim Koçoğlu](https://github.com/halilkocoglu)
-- [Duygu Yalçın](https://github.com/Duyguyalcn)
-- [Rami Koco](https://github.com/RamiKoco)
-
-**:star: Thank you for taking the time to read. If you find the project interesting or would like to appreciate our effort, you can star it. :smile:**
-
----
 ## Contents:
 
 1. [Installation](#installation)
@@ -50,48 +36,7 @@ To run the project locally and experience the skills developed in Tobeto's full-
 - Node.js and Node Package Manager (NPM)
 - Git
 
-### Installation Steps
 
-**First, download the project to your local machine by cloning it from GitHub:**
-
-   ```
-   git clone https://github.com/tugberkurganci/rentACar.git
-   ```
-#### Server Side Installation
-**1. Open the terminal and navigate to the project directory:**
-```
-  cd rentACar/server/pair-3
-   ```
-   **2. Run the following command to install project dependencies:**
-```
-  mvn clean install
-   ```
-   **3. Run the following code to start the server side:**
-```
-  mvn spring-boot:run
-   ```
-   #### Client Side Installation
-   **1. Open the terminal and navigate to the project directory:**
-```
-  cd rentACar/client
-   ```
-   **2. Run the following command to install project dependencies:**
-```
-  npm install
-   ```
-   **3. Run the following code to start the client side:**
-```
-  npm run dev
-   ```
-   #### Usage of Website
-   **After successfully starting the server and client sides, you can visit the car rental website in your browser using the following address:**
-   ```
-  http://localhost:5173
-   ```
-   **You can now use the car rental website in your local development environment!**
-
----
-<span id="desc"> </span>
 
    ## Project Description
    The car rental website is a platform owned by a single car rental company where users can carry out car rental processes online. This website allows users to select the vehicles they desire (based on the dealerships or locations where the vehicles are located) and manage the rental process. Additionally, the site incorporates a membership system for both users and administrators. It enables the owner and administrators of the car rental company to add, delete, read, and update user information, vehicle information, model information related to vehicles, and rental information, except for exceptional circumstances and needs. The documentation encompasses the general description and objectives of the car rental website project. In subsequent sections, topics such as project architecture, technologies, and tools used will be discussed in detail.
@@ -443,8 +388,5 @@ const handleFilterCarList = async (
   };
 ```
 --- 
-
-
-**:star: Thank you for taking the time to read. If you find the project interesting or would like to appreciate our effort, you can star it. :smile:**
 
 
